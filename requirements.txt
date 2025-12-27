@@ -1,0 +1,10 @@
+gradio
+python-docx
+pillow
+openai
+python-pptx
+pdf2image
+PyPDF2
+streamlit
+
+
